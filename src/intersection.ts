@@ -1,4 +1,7 @@
 
+// intersection means where we have to fullfill all condition
+
+
 type Emplyee={
     id:number,
     name:string,

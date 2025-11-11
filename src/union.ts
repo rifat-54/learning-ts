@@ -1,3 +1,4 @@
+//uniion means where if only condition is true. than code run 
 
 type IsAdmin='admin' | 'user'
 
