@@ -21,7 +21,7 @@ const result2=convertKgToGram('1 Kg') as string
 console.log(result2);
 
 type CustomError={
-    message:string
+    message:string 
 }
 
 
