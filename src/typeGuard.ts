@@ -1,5 +1,6 @@
 
-//! type guard
+//* type guard   => it check type
+
 type Alphaneumeric=number | string;
 
 const add=(num1:Alphaneumeric,num2:Alphaneumeric)=>{
@@ -13,7 +14,10 @@ const add=(num1:Alphaneumeric,num2:Alphaneumeric)=>{
 
 // console.log(add(2,'3'));
 
-//! type in
+
+
+
+//*  in Guard  => it check if value exit on that 
 
 type NormalUser={
     name:string;
